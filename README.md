@@ -4,4 +4,4 @@
 
 ### DISCLAIMER: dont be confused if nothing happens on ur screen just leave it running is cracking the pin in the background just leave the site open and dont touch nothing.
 
-https://cdn.discordapp.com/attachments/1258080432734470146/1258713748206522419/roblox.png?ex=66890c07&is=6687ba87&hm=53c51fc39774e8e58669f6e6acf99387bb0785b5a0a44761e662de372666bf39&
+![roblox](https://github.com/Seksij/Pin-Cracker-by-sm0ke/assets/99182645/db50a4bc-6908-461c-b44c-066830304899)
