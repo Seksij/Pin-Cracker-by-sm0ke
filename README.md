@@ -6,19 +6,19 @@
 
 ![roblox](https://github.com/Seksij/Pin-Cracker-by-sm0ke/assets/99182645/db50a4bc-6908-461c-b44c-066830304899)
 
-TUTORIAL ON HOW TO ADD THE EXTENSION TO UR EDTENSIONS ON GOOGLE (WORKS FOR OPERA, BRAVE AND OTHER BROWSERS TO):
+## TUTORIAL ON HOW TO ADD THE EXTENSION TO UR EDTENSIONS ON GOOGLE (WORKS FOR OPERA, BRAVE AND OTHER BROWSERS TO):
 
-1. Once you download the rar file extract it to ur desktop
-2. The file that you get should be called extension, dont change nothing in it because if something is changed even by a little bit is not going to work
-3. Go on Chrome / Opera / Brave click the 3 dots in the top right corner, click extensions and click manage extensions
-4. Once it opens in the top right corner of the website there will be a developer mode if is turned off turn it on
+### 1. Once you download the rar file extract it to ur desktop
+### 2. The file that you get should be called extension, dont change nothing in it because if something is changed even by a little bit is not going to work
+### 3. Go on Chrome / Opera / Brave click the 3 dots in the top right corner, click extensions and click manage extensions
+### 4. Once it opens in the top right corner of the website there will be a developer mode if is turned off turn it on
 
 ![image](https://github.com/Seksij/Pin-Cracker-by-sm0ke/assets/99182645/d6c556a4-9882-43bb-b6ba-8cac73a7eb93)
 
-5. Click Load Unpacked
+### 5. Click Load Unpacked
 
 ![image](https://github.com/Seksij/Pin-Cracker-by-sm0ke/assets/99182645/43057cb5-3c47-4bfa-9468-78ddba97cbf3)
 
-6. Go to ur desktop (or wherever u put the file) and click it (dont open it just click it) and then click select folder / or you can just drag it in ur choice
-7. Thats the setup now to crack the pin just go into the homepage on the account u want to crack the pin on and click the exension
-8. Enjoy
+### 6. Go to ur desktop (or wherever u put the file) and click it (dont open it just click it) and then click select folder / or you can just drag it in ur choice
+### 7. Thats the setup now to crack the pin just go into the homepage on the account u want to crack the pin on and click the exension
+### 8. Enjoy
